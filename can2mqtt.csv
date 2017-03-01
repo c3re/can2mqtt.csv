@@ -13,3 +13,5 @@
 118,uint322ascii,huette/all/a03/flashlight/target_values/activate
 119,bytecolor2colorcode,internetdata/all/000/cheerlights/target_values/get_actual_color
 120,pixelbin2ascii,waschkaue/eingangshalle/000/uhr/actuators/set_pixel
+206,uint322ascii,huette/clubraum/000/ds18b20/sensors/temperatur1
+207,uint322ascii,huette/clubraum/000/ds18b20/sensors/temperatur2
