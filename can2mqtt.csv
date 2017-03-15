@@ -15,3 +15,6 @@
 120,pixelbin2ascii,waschkaue/eingangshalle/000/uhr/actuators/set_pixel
 206,uint322ascii,huette/serverraum/000/ds18b20/sensors/temperatur1
 207,uint322ascii,huette/serverraum/000/ds18b20/sensors/temperatur2
+208,uint322ascii,huette/all/000/ccu/sensors/mqtt_received
+209,uint322ascii,huette/all/000/ccu/sensors/mqtt_sent
+
