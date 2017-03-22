@@ -17,4 +17,5 @@
 207,uint322ascii,huette/serverraum/000/ds18b20/sensors/temperatur2
 208,uint322ascii,huette/all/000/ccu/sensors/mqtt_received
 209,uint322ascii,huette/all/000/ccu/sensors/mqtt_sent
+221,none,huette/clubraum/000/ccu/actuators/5v
 
