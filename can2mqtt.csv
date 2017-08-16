@@ -21,4 +21,5 @@
 114,uint322ascii,huette/all/000/router/sensors/connected_devices
 300,pixelbin2ascii,huette/clubraum/000/ws2812tonne/actuators/set_pixel
 301,none,huette/clubraum/000/redshift/actuators/set_pixel
+302,none,huette/clubraum/000/drucki/actuators/print_text
 
