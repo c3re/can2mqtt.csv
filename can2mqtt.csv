@@ -3,7 +3,6 @@
 115,uint322ascii,huette/serverraum/000/filebitch/sensors/ftp_diskusage_percent
 116,uint322ascii,huette/all/000/router/sensors/rx_bytes_s
 117,uint322ascii,huette/all/000/router/sensors/tx_bytes_s
-200,uint322ascii,huette/clubraum/000/ds18b20/sensors/temperatur
 201,uint322ascii,huette/all/000/airmonitor/sensors/temp
 202,uint322ascii,huette/all/000/airmonitor/sensors/hum
 203,uint322ascii,huette/all/000/airmonitor/sensors/airq
@@ -23,3 +22,4 @@
 301,none,huette/clubraum/000/redshift/actuators/set_pixel
 302,none,huette/clubraum/000/drucki/actuators/print_text
 303,none,huette/all/000/lampe_aussen_cmnd/actuators/power
+200,uint322ascii,huette/clubraum/c03/Temperatur/sensors/temp
