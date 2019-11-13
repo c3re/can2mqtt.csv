@@ -10,6 +10,7 @@
 120,pixelbin2ascii,waschkaue/eingangshalle/000/uhr/actuators/set_pixel
 121,none,huette/clubraum/000/ccu/actuators/5v
 122,uint322ascii,huette/all/000/cyberalarm/actors/alarmled
+123,none,huette/clubraum/000/ccu/actuators/statuslamp
 200,uint322ascii,huette/clubraum/c03/Temperatur/sensors/temp 
 201,uint322ascii,huette/all/000/airmonitor/sensors/temp
 202,uint322ascii,huette/all/000/airmonitor/sensors/hum
@@ -36,3 +37,4 @@
 301,none,huette/clubraum/000/redshift/actuators/set_pixel
 302,none,huette/clubraum/000/drucki/actuators/print_text
 303,none,huette/all/000/lampe_aussen_cmnd/actuators/power
+
