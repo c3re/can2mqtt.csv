@@ -1,4 +1,3 @@
-111,uint322ascii,huette/all/000/electr_meter_huette/sensors/actual_active_power
 112,none,huette/all/a03/door/sensors/opened
 113,2uint322ascii,huette/all/000/ccu/sensors/time
 114,uint322ascii,huette/all/000/router/sensors/connected_devices
@@ -37,4 +36,4 @@
 301,none,huette/clubraum/000/redshift/actuators/set_pixel
 302,none,huette/clubraum/000/drucki/actuators/print_text
 303,none,huette/all/000/lampe_aussen_cmnd/actuators/power
-
+304,uint322ascii,huette/all/000/electr_meter_huette/sensors/meter_reading
