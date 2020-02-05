@@ -1,3 +1,4 @@
+111,uint322ascii,huette/all/000/electr_meter_huette/sensors/actual_active_power
 112,none,huette/all/a03/door/sensors/opened
 113,2uint322ascii,huette/all/000/ccu/sensors/time
 114,uint322ascii,huette/all/000/router/sensors/connected_devices
